@@ -2,7 +2,7 @@
 framework for cooperative coding - Magshimim Final project (2019)
 Features:
 1. multiple users
-2. update in real time
+2. updates in real time
 3. compile and run c# code
 4. display users cursor in real time
  
