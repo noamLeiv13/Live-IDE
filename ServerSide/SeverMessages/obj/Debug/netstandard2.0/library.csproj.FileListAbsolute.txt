@@ -1,0 +1,54 @@
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\bin\Debug\netstandard2.0\library.deps.json
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\bin\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\bin\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\obj\Debug\netstandard2.0\library.csprojAssemblyReference.cache
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\obj\Debug\netstandard2.0\library.csproj.CoreCompileInputs.cache
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfoInputs.cache
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfo.cs
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\obj\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projet 1.04\MQTest\library\obj\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\project\MQTest\library\bin\Debug\netstandard2.0\library.deps.json
+C:\Users\magshimim\Desktop\project\MQTest\library\bin\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\project\MQTest\library\bin\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\project\MQTest\library\obj\Debug\netstandard2.0\library.csprojAssemblyReference.cache
+C:\Users\magshimim\Desktop\project\MQTest\library\obj\Debug\netstandard2.0\library.csproj.CoreCompileInputs.cache
+C:\Users\magshimim\Desktop\project\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfoInputs.cache
+C:\Users\magshimim\Desktop\project\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfo.cs
+C:\Users\magshimim\Desktop\project\MQTest\library\obj\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\project\MQTest\library\obj\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\bin\Debug\netstandard2.0\library.deps.json
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\bin\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\bin\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\obj\Debug\netstandard2.0\library.csprojAssemblyReference.cache
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\obj\Debug\netstandard2.0\library.csproj.CoreCompileInputs.cache
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfoInputs.cache
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfo.cs
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\obj\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projectCopy\MQTest\library\obj\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\bin\Debug\netstandard2.0\library.deps.json
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\bin\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\bin\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\obj\Debug\netstandard2.0\library.csprojAssemblyReference.cache
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\obj\Debug\netstandard2.0\library.csproj.CoreCompileInputs.cache
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfoInputs.cache
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfo.cs
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\obj\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projectCopy\tryUpdate\MQTest\library\obj\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\bin\Debug\netstandard2.0\library.deps.json
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\bin\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\bin\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\obj\Debug\netstandard2.0\library.csprojAssemblyReference.cache
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\obj\Debug\netstandard2.0\library.csproj.CoreCompileInputs.cache
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfoInputs.cache
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfo.cs
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\obj\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projectCopy\oldVersion\MQTest\library\obj\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\bin\Debug\netstandard2.0\library.deps.json
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\bin\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\bin\Debug\netstandard2.0\library.pdb
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\obj\Debug\netstandard2.0\library.csprojAssemblyReference.cache
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\obj\Debug\netstandard2.0\library.csproj.CoreCompileInputs.cache
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfoInputs.cache
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\obj\Debug\netstandard2.0\library.AssemblyInfo.cs
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\obj\Debug\netstandard2.0\library.dll
+C:\Users\magshimim\Desktop\projectToUseFiles\MQTest\library\obj\Debug\netstandard2.0\library.pdb
